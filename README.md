@@ -1,7 +1,8 @@
-<div align="center"> 
+<div align="center">
   <p>Visitor count</p>
-  <img src="https://github.com/Henrique-Goncalves-Dev/Henrique-Goncalves-Dev/edit/main/README.md" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/Henrique-Goncalves-Dev/count.svg" alt="Visitor count" />
 </div>
+
 
 <!--
 **Henrique-Goncalves-Dev/Henrique-Goncalves-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
