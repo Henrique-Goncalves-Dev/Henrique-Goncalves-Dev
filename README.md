@@ -1,7 +1,8 @@
 <div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Henrique-Goncalves-Dev/count.svg" alt="Visitor count" />
+  <p>👀 Profile views</p>
+  <img src="https://komarev.com/ghpvc/?username=Henrique-Goncalves-Dev&color=blue&style=for-the-badge" alt="Profile views"/>
 </div>
+
 
 
 <!--
