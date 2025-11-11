@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-  <a href="henrique.goncalves1712@gmail.com.com">
+  <a href="henrique.goncalves1712@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/henrique-gonçalves-581116266" target="_blank">
