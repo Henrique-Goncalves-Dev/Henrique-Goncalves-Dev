@@ -8,6 +8,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Henrique!;" />
 </h1>
 
+### Front-end developer focused on creating intuitive, efficient, and user-friendly web applications using Angular and TypeScript. Passionate about turning ideas into functional, well-designed digital experiences that make a real impact.
+
+
 
 <!--
 **Henrique-Goncalves-Dev/Henrique-Goncalves-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
